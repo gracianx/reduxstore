@@ -1,0 +1,19 @@
+{
+  "name": "reduxstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracianx/reduxstore.git"
+  },
+  "author": "gracianx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracianx/reduxstore/issues"
+  },
+  "homepage": "https://github.com/gracianx/reduxstore#readme"
+}
